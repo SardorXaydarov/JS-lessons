@@ -18,4 +18,5 @@ if(true){
 }
 if(true){
     console.log('Tashqi else if ichi:' ,age);
-}
+    
+}   
